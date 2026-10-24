@@ -18,8 +18,12 @@
         <a href="https://github.com/zarinroushan"><img src="https://img.shields.io/badge/GitHub-5C4033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="assets/zarin-portrait.png" alt="Zarin Roushan" width="300" />
+    <td width="32%" align="center" valign="middle">
+      <img
+        src="assets/zarin-portrait.png"
+        alt="Portrait of Zarin Roushan"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
@@ -30,49 +34,39 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <a href="https://github.com/zarinroushan/freelance-hub"><img src="assets/unigigs.png" alt="UniGigs project preview" width="100%" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zarinroushan/freelance-hub">
+        <img src="assets/unigigs.png" width="100%" alt="UniGigs preview">
+      </a>
       <h3><a href="https://github.com/zarinroushan/freelance-hub">UniGigs</a></h3>
-      <p><sub>STUDENT FREELANCE MARKETPLACE</sub></p>
-      <p>A student-focused marketplace for discovering gigs, applying to opportunities, and managing freelance work.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-EDF6FF?style=flat&logo=react&logoColor=087EA4" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-EDF2FF?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/FastAPI-E7F7F0?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      </p>
+      <b>Student Freelance Marketplace</b>
+      <p>A platform concept for discovering gigs, applying to opportunities, and managing freelance work.</p>
     </td>
-    <td width="25%" valign="top">
-      <a href="https://github.com/zarinroushan/pips-midnight-observatory"><img src="assets/dear-pip.png" alt="Dear Pip project preview" width="100%" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zarinroushan/pips-midnight-observatory">
+        <img src="assets/dear-pip.png" width="100%" alt="Dear Pip preview">
+      </a>
       <h3><a href="https://github.com/zarinroushan/pips-midnight-observatory">Dear Pip — Midnight Observatory</a></h3>
-      <p><sub>INTERACTIVE STORYBOOK EXPERIENCE</sub></p>
-      <p>A dreamy, storybook-style web experience with explorable spaces, stories, a garden, and sound experiments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-EFF8FF?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-EDF2FF?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-FFF7D6?style=flat&logo=javascript&logoColor=B79500" alt="JavaScript" />
-      </p>
+      <b>Interactive Character-Based Experience</b>
+      <p>Brings together dreamy storytelling, playful experiences, and magical world-building, starring Pip, a little skull baby exploring dreamy worlds, enchanting stories, cozy spaces, and playful interactive discoveries.</p>
     </td>
-    <td width="25%" valign="top">
-      <a href="https://github.com/zarinroushan/NammaSpeak"><img src="assets/nammaspeak.png" alt="NammaSpeak project preview" width="100%" /></a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zarinroushan/NammaSpeak">
+        <img src="assets/nammaspeak.png" width="100%" alt="NammaSpeak preview">
+      </a>
       <h3><a href="https://github.com/zarinroushan/NammaSpeak">NammaSpeak</a></h3>
-      <p><sub>KANNADA-LEARNING WEB APP</sub></p>
-      <p>A language-learning app focused on practical conversations, phrase exploration, quizzes, pronunciation support, and revision.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-EFF8FF?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
-        <img src="https://img.shields.io/badge/JavaScript-FFF7D6?style=flat&logo=javascript&logoColor=B79500" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Flask-EDEDED?style=flat&logo=flask&logoColor=333333" alt="Flask" />
-      </p>
+      <b> Learn Kannada Through Real Conversations</b>
+      <p>An interactive Kannada-learning app for everyday conversations, practical phrases, quizzes, pronunciation practice, and AI-powered learning with offline translation support.</p>
     </td>
-    <td width="25%" valign="top">
-      <a href="https://github.com/zarinroushan/clutchvision"><img src="assets/clutchvision.png" alt="ClutchVision project preview" width="100%" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zarinroushan/clutchvision">
+        <img src="assets/clutchvision.png" width="100%" alt="ClutchVision preview">
+      </a>
       <h3><a href="https://github.com/zarinroushan/clutchvision">ClutchVision</a></h3>
-      <p><sub>IPL DATA ANALYSIS &amp; VISUALIZATION</sub></p>
-      <p>A project exploring IPL/cricket data through analysis and visualizations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-EDF6FF?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-F3EFFF?style=flat&logo=pandas&logoColor=150458" alt="Pandas" />
-        <img src="https://img.shields.io/badge/Matplotlib-FFF1E8?style=flat&logo=plotly&logoColor=E97627" alt="Visualization" />
-      </p>
+      <b>IPL Data Analysis &amp; Visualization</b>
+      <p>A project focused on exploring IPL/cricket data through analysis and visualizations using R.</p>
     </td>
   </tr>
 </table>
@@ -80,9 +74,12 @@
 <table>
   <tr>
     <td align="center" bgcolor="#FBE5EA">
-      <a href="[https://github.com/zarinroushan](https://github.com/zarinroushan?tab=repositories)"><b>◉ &nbsp; See all my projects on GitHub &nbsp; →</b></a>
-      <br />
-      <sub>Explore more repositories, experiments, and contributions.</sub>
+      <h3>
+        <a href="https://github.com/zarinroushan?tab=repositories">
+          ◉ See all my projects on GitHub →
+        </a>
+      </h3>
+      <p>Explore more repositories, experiments, and contributions.</p>
     </td>
   </tr>
 </table>
@@ -131,11 +128,21 @@
 
 # 📊 GitHub Stats:
 
-  ![](https://github-readme-stats.shion.dev/api?username=zarinroushan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=zarinroushan&theme=transparent&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zarinroushan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
 
+  <img src="https://github-readme-stats.shion.dev/api?username=zarinroushan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
+  <br />
+
+  <img src="https://streak-stats.demolab.com/?user=zarinroushan&theme=transparent&hide_border=false" alt="GitHub Streak Stats" />
+
+  <br />
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarinroushan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+<br /><br />
 
 <p align="center"><i>Building, learning, and turning ideas into things people can use. ♡</i></p>
